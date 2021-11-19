@@ -1,0 +1,14 @@
+{
+  "name": "js-starter-code",
+  "version": "1.0.0",
+  "description": "Js starter code",
+  "main": "game.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
